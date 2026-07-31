@@ -1,6 +1,6 @@
 # Insurance comprehension gaps in Nigerian online discourse
 
-This repository supports the MIT 8212 seminar paper by Praise Ejama Njab. The study analyses selected public Nairaland posts and replies, Google Play insurance application reviews, and YouTube comments using BERTopic and TF IDF with K means. The findings are then converted into requirements for a proposed governed retrieval augmented generation knowledge system.
+This repository supports a seminar paper by Praise Ejama Njab. The study analyses selected public Nairaland posts and replies, Google Play insurance application reviews, and YouTube comments using BERTopic and TF IDF with K means. The findings are then converted into requirements for a proposed governed retrieval augmented generation knowledge system.
 
 The seminar delivers a research and system design blueprint. It does not claim that the RAG application has already been implemented or evaluated.
 
