@@ -1,0 +1,16 @@
+source_label,category,document_count,denominator,percent
+Google Play reviews,Procedural access,154,277,55.5956678700361
+Nairaland,Procedural access,176,557,31.597845601436266
+YouTube,Procedural access,17,151,11.258278145695364
+Google Play reviews,Trust and reliability,13,277,4.693140794223827
+Nairaland,Trust and reliability,99,557,17.7737881508079
+YouTube,Trust and reliability,27,151,17.880794701986755
+Google Play reviews,Coverage and entitlements,0,277,0.0
+Nairaland,Coverage and entitlements,90,557,16.15798922800718
+YouTube,Coverage and entitlements,1,151,0.6622516556291391
+Google Play reviews,Residual or mixed,3,277,1.083032490974729
+Nairaland,Residual or mixed,40,557,7.1813285457809695
+YouTube,Residual or mixed,63,151,41.72185430463576
+Google Play reviews,Outlier,107,277,38.628158844765345
+Nairaland,Outlier,152,557,27.289048473967686
+YouTube,Outlier,43,151,28.47682119205298

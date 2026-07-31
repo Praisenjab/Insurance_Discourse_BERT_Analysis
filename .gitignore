@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.ipynb_checkpoints/
+source/seminar files/corpus_final_v2.csv
+source/seminar files/bertopic_docs.csv
+source/seminar files/play_reviews_raw.csv
+source/seminar files/raw_comments.json
+source/seminar files/raw_posts.json
+source/seminar files/youtube_comments.csv
+source/seminar files/nairaland_posts.csv

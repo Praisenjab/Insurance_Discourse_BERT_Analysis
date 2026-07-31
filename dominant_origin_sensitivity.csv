@@ -1,0 +1,16 @@
+sensitivity_scenario,excluded_origin,category,document_count,denominator,percent
+All modelled documents,,Procedural access,347,985,35.22842639593909
+All modelled documents,,Trust and reliability,139,985,14.111675126903553
+All modelled documents,,Coverage and entitlements,91,985,9.238578680203045
+All modelled documents,,Residual or mixed,106,985,10.761421319796954
+All modelled documents,,Outlier,302,985,30.65989847715736
+Excluding dominant origin,Nhis(national Health Insurance Scheme),Procedural access,177,570,31.05263157894737
+Excluding dominant origin,Nhis(national Health Insurance Scheme),Trust and reliability,117,570,20.526315789473685
+Excluding dominant origin,Nhis(national Health Insurance Scheme),Coverage and entitlements,3,570,0.5263157894736842
+Excluding dominant origin,Nhis(national Health Insurance Scheme),Residual or mixed,91,570,15.964912280701753
+Excluding dominant origin,Nhis(national Health Insurance Scheme),Outlier,182,570,31.929824561403507
+Nairaland excluding dominant origin,Nhis(national Health Insurance Scheme),Procedural access,6,142,4.225352112676056
+Nairaland excluding dominant origin,Nhis(national Health Insurance Scheme),Trust and reliability,77,142,54.22535211267606
+Nairaland excluding dominant origin,Nhis(national Health Insurance Scheme),Coverage and entitlements,2,142,1.4084507042253522
+Nairaland excluding dominant origin,Nhis(national Health Insurance Scheme),Residual or mixed,25,142,17.6056338028169
+Nairaland excluding dominant origin,Nhis(national Health Insurance Scheme),Outlier,32,142,22.535211267605636

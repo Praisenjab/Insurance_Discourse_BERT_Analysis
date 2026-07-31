@@ -1,0 +1,4 @@
+stage,script,queries,unique_candidates,automatic_flags,final_retained_apps_found,manual_decision_summary
+Initial pilot,01_check_apps_COLAB.py,30,93,Not used,14 of 24,Exploratory output contained substantial unrelated application noise
+Expanded discovery,01b_discover_expanded_COLAB.py,110,301,86,24 of 24,Broad candidate capture before manual review
+Manual review,app_candidates_v3.csv,110,301,Not applicable,24 of 24,Changed 62 automatic true flags to false and added no candidates

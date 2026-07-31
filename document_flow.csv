@@ -1,0 +1,17 @@
+source,stage,document_count,basis
+Nairaland,Downloaded or scraped raw,3473,raw_posts.json
+Nairaland,Retained by archived cleaning script,871,nairaland_posts.csv
+Nairaland,Included in final corpus,654,corpus_final_v2.csv
+Nairaland,Included in BERTopic model,557,bertopic_docs.csv and minimum eight word rule
+Google Play reviews,Downloaded raw,2014,play_reviews_raw.csv
+Google Play reviews,Included in final corpus,277,corpus_final_v2.csv; intermediate screening code not retained
+Google Play reviews,Included in BERTopic model,277,bertopic_docs.csv and minimum eight word rule
+YouTube,Downloaded raw,1092,raw_comments.json
+YouTube,Retained by archived cleaning and cap script,244,youtube_comments.csv
+YouTube,Included in final corpus,217,corpus_final_v2.csv
+YouTube,Included in BERTopic model,151,bertopic_docs.csv and minimum eight word rule
+Combined,Included in final corpus,1148,corpus_final_v2.csv
+Combined,Excluded by minimum eight word model rule,163,corpus_final_v2.csv and bertopic_docs.csv
+Combined,Included in BERTopic model,985,bertopic_docs.csv
+Combined,BERTopic outliers,302,bertopic_docs.csv
+Combined,Assigned to a nonoutlier BERTopic topic,683,bertopic_docs.csv

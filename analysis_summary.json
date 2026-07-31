@@ -1,0 +1,15 @@
+{
+  "final_corpus_documents": 1148,
+  "modelled_documents": 985,
+  "outliers": 302,
+  "nonoutliers": 683,
+  "audited_category_counts_all_modelled": {
+    "Procedural access": 347,
+    "Trust and reliability": 139,
+    "Coverage and entitlements": 91,
+    "Residual or mixed": 106,
+    "Outlier": 302
+  },
+  "dominant_origin": "Nhis(national Health Insurance Scheme)",
+  "dominant_origin_modelled_documents": 415
+}

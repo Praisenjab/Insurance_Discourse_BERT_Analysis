@@ -1,0 +1,25 @@
+{
+  "purpose": "Reconstruction and audit of the researcher-created seminar analysis. This does not claim to reproduce the original software environment.",
+  "source_file_hashes": {
+    "corpus_final_v2.csv": "f5fbf12b90428551fd5baea62d8bad19986607787e00c5092f4acf588fd16be1",
+    "bertopic_docs.csv": "dc5867ba4e0cd062f026140ba11d0bc6d4de00080684ce9231c33071d77b9940",
+    "bertopic_topics.csv": "be36f2cafd2d7d871d57e92e958c9aa494ed7beef1eeae120f6a6ba5444c1a69",
+    "bertopic_dimensions.csv": "c16476a4e16458ded3072e1da34d6d49ad87324fd08685b978ebc87ce9838861",
+    "04_bertopic_COLAB.py": "4435c81f3b5f40453a91b5e8d1b7d8d7fe36dcb5fcc04b473effa963026bc92b",
+    "Untitled2.ipynb": "18f0fa3f23ca7b794a2a519e6f4d073558eb130b3b483020f0b39e3a65bb3b67",
+    "MIT8212_Seminar_Paper.docx": "cdeb8228a3c2c0a734bcf89121fa872e4c04ac25362b4f688340c2cd64573c1b",
+    "fig_dimensions_v2.png": "e3542f90b51a5b7e424d76a4c337efddb82698cc4ef01dc341aea488ebae22e4"
+  },
+  "reconstruction_environment": {
+    "python": "3.12.13",
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "scikit_learn": "1.8.0"
+  },
+  "important_limitations": [
+    "The original TF IDF trial is evidenced by its figure and contemporaneous narrative, but its code, assignments, parameters, and corrected mapping were not retained.",
+    "The original package versions were not recorded.",
+    "The record-level corpus assembly code and screening log were not retained.",
+    "The audited topic mapping requires independent human validation before it can be described as validated."
+  ]
+}
