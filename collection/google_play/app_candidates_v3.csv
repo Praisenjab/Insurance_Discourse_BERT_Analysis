@@ -1,0 +1,302 @@
+search_term,app_id,title,developer,installs,n_ratings,n_reviews,score,genre,keep,role
+Reliance Health HMO,com.reliancehmo.app,Reliance Care,Reliance Health,"100,000+",1561.0,637,3.910828,Health & Fitness,True,consumer
+Reliance Health HMO,com.microsoft.azure.mobileapps.hymobile,Hygeia Mobile,Hygeia HMO,"100,000+",478.0,280,3.68,Health & Fitness,True,consumer
+Integrated Healthcare Nigeria,com.leadway.health,Leadway Health,Leadway Assurance Company Ltd.,"100,000+",348.0,213,2.7572815,Health & Fitness,True,consumer
+health insurance Nigeria,app.axamansard.myaxa,MyAXA Plus,AXA Mansard (Nigeria),"100,000+",418.0,207,3.43,Finance,True,consumer
+Enterprise Life Nigeria,com.leadway.mylifematter,myLife+,Leadway Assurance Company Ltd.,"50,000+",350.0,182,3.1,Finance,True,consumer
+Custodian Insurance Nigeria,com.heirsinsurance.retail.app,SimpleLife by Heirs Insurance,HEIRS GENERAL INSURANCE LIMITED,"50,000+",211.0,126,2.99,Finance,True,consumer
+Avon HMO,com.nemhmo.mobile,NEM Health Mobile,Health Insurance,"50,000+",165.0,66,3.92,Health & Fitness,True,consumer
+Enterprise Life Nigeria,com.digicore.advantageapp,AdvantageConnect,Enterprise Life Assurance Nigeria,"10,000+",78.0,36,4.571429,Finance,True,consumer
+Avon Healthcare,com.avonhealthcare.avon,Avon Flex,AVON HMO,"10,000+",79.0,34,4.0,Health & Fitness,True,consumer
+Zenith Medicare,com.venusmedicare.hmo,Venus Medicare HMO,LionTech Systems,"5,000+",71.0,30,4.2173915,Health & Fitness,True,consumer
+Enterprise Life Nigeria,com.enterpriselife,AdvantageConnect LifePlanner,Enterprise Life Assurance Nigeria,"1,000+",47.0,30,5.0,Finance,True,consumer
+Mutual Benefits Assurance,com.safamdigital.mbaclient,Mutual Benefits,SAFAM DIGITAL,"5,000+",35.0,23,2.7428572,Finance,True,consumer
+ETAP insure,com.etapapp,ETAP,ETAP INSURE,"5,000+",34.0,14,4.677419,Finance,True,consumer
+Wapic Insurance,com.mycovergenius.genius_app,MyCover - Personal Insurance,MyCoverGenius Ltd,"1,000+",29.0,13,4.2413793,Finance,True,consumer
+FBN Insurance,com.sanlamallianz.connect.ng,Sanlam Connect,SanlamAllianz Nigeria,"10,000+",19.0,12,3.4117646,Business,True,consumer
+Clearline HMO,com.mesiot.hallmarkhmo,Hallmark HMO,Consolidated Hallmark Insurance Ltd,"5,000+",22.0,10,4.181818,Health & Fitness,True,consumer
+AIICO Insurance,com.aiicoplc.aiico.app,AIICO EXPRESS,AIICO Insurance Plc,"1,000+",30.0,10,4.4666667,Finance,True,consumer
+Capital Express Assurance,com.algora.capitalexpress,Capital Express,capexappdev,"1,000+",18.0,10,4.117647,Finance,True,consumer
+Anchor Insurance Nigeria,com.anchorhmo.app,Anchor Mobile,Health Insurance,"5,000+",18.0,9,3.235294,Health & Fitness,True,consumer
+Mediplan Healthcare,com.mediplan.mobile,Mediplan,Health Insurance,"5,000+",9.0,4,4.2222223,Health & Fitness,True,consumer
+Hygeia HMO,com.clearV2.line,Clearline HMO APP,Health Insurance,"5,000+",15.0,3,4.642857,Health & Fitness,True,consumer
+SUNU Assurances Nigeria,com.sunuhealth.app,SUNU Health,SUNU Health Nigeria Limited,"1,000+",8.0,3,3.125,Health & Fitness,True,consumer
+NSIA Insurance Nigeria,official.nsia.app,NSIA Insurance NG,NSIA INSURANCE APP,"1,000+",11.0,3,4.3333335,Finance,True,consumer
+Cornerstone Insurance,com.cornerstone.insurance,Cornerstone Insurance Plc,Cornerstone Insurance,"1,000+",6.0,1,3.5,Business,True,consumer
+PaddyCover,team.opay.pay,OPay,OPay Digital Services Limited,"50,000,000+",1088538.0,407062,4.5106144,Finance,False,not_ng_insurance
+Total Health Trust,com.whatsapp.w4b,WhatsApp Business,WhatsApp LLC,"1,000,000,000+",23620852.0,312134,4.490364,Communication,False,not_ng_insurance
+NEM Insurance,com.lenddo.mobile.paylater,Carbon: Mobile Banking & Loans,Carbon Microfinance Bank,"5,000,000+",168371.0,87838,3.8430493,Finance,False,not_ng_insurance
+Allianz Nigeria,com.alibaba.aliexpresshd,AliExpress - Shopping App,Alibaba Mobile,"500,000,000+",16292876.0,59443,4.531432,Shopping,False,not_ng_insurance
+Bastion Health,com.moniepoint.business,Moniepoint Business Banking,Moniepoint,"10,000,000+",244128.0,43635,4.598679,Finance,False,not_ng_insurance
+PaddyCover,com.piggybankng.piggy,PiggyVest: Save & Invest Today,Piggytech Global Ltd.,"1,000,000+",99372.0,37662,4.491904,Finance,False,not_ng_insurance
+third party insurance Nigeria,com.renmoney.android,Renmoney: Loan & Savings App,Renmoney MFB,"1,000,000+",51985.0,25502,4.361046,Finance,False,not_ng_insurance
+THT Nigeria health,com.linkedin.android,LinkedIn: Community & Network,LinkedIn,"1,000,000,000+",3476875.0,24235,4.046293,Business,False,not_ng_insurance
+Zenith General Insurance,com.zenithBank.eazymoney,Zenith Bank Mobile App,Zenith Bank,"10,000,000+",51147.0,22865,4.159705,Finance,False,not_ng_insurance
+KBL Insurance,com.sofascore.results,Sofascore: Live Sports Scores,Sofascore,"100,000,000+",1142057.0,17878,4.3552833,Sports,False,not_ng_insurance
+Sterling Health HMO,com.sterlingng.sterlingmobile,Sterling OneBank,Sterling Bank Plc,"1,000,000+",33627.0,15803,3.8901098,Finance,False,not_ng_insurance
+SUNU Assurances Nigeria,com.suno.android,Suno - AI Music & Songs Maker,"Suno, Inc","10,000,000+",2041066.0,7119,4.607931,Music & Audio,False,not_ng_insurance
+Allianz Nigeria,com.azure.authenticator,Microsoft Authenticator,Microsoft Corporation,"100,000,000+",2731201.0,5274,4.677852,Business,False,not_ng_insurance
+Fin Insurance Nigeria,com.prestmit,Prestmit: Gift Cards & Crypto,Prestmit,"500,000+",11880.0,5001,4.55074,Finance,False,not_ng_insurance
+Novo Health Africa,com.google.android.apps.magazines,Google News - Daily Headlines,Google LLC,"1,000,000,000+",1960591.0,2667,4.559033,News & Magazines,False,not_ng_insurance
+Jaiz Takaful,com.jaizbank.app,Jaiz Mobile Plus,Jaiz Bank Plc,"1,000,000+",5244.0,2235,3.49,Finance,False,not_ng_insurance
+buy insurance Nigeria,ng.giglogistics.giglgo,GIGGO,GIG Logistics,"500,000+",3701.0,1571,3.7928994,Business,False,not_ng_insurance
+third party insurance Nigeria,com.ng.con.loan.fast.simple,FastFund - Efficient & Trusted,CONRADO LENDING LIMITED,"500,000+",9472.0,1550,4.3808374,Finance,False,not_ng_insurance
+Turaco insurance,ng.kobogo.mobile,KoboGo,KoboGo,"1,000,000+",2125.0,1493,3.1698112,Finance,False,not_ng_insurance
+buy insurance Nigeria,com.p2vest,P2Vest - Loan & Insurance App,P2Vest Technology Limited,"100,000+",2155.0,1404,3.762136,Finance,False,not_ng_insurance
+Zenith Life Assurance,com.invoiceapp,Simple Invoice Manager,Tacktile Systems Private Limited,"5,000,000+",36402.0,1339,4.728155,Business,False,not_ng_insurance
+International Energy Insurance,com.ist.irecharge,iRecharge,Infostrategy Technology,"100,000+",2412.0,1231,3.9868996,Finance,False,not_ng_insurance
+AIICO Multishield,network.optimai.edgenode,OptimAI Edge Node,OptimAI Network,"50,000+",18826.0,1163,4.366667,Finance,False,not_ng_insurance
+PaddyCover,com.cousant.naijainvest,i-invest: Invest & Save,Parthian Partners,"100,000+",1958.0,1036,4.1213875,Finance,False,not_ng_insurance
+Fin Insurance Nigeria,com.zenithbank.eazybyzenith,eaZy by Zenith Digital Wallet,Zenith Bank,"1,000,000+",2659.0,768,4.4573646,Finance,False,not_ng_insurance
+Hygeia HMO,com.transsion.oraimohealth,oraimo health,ORAIMO TECHNOLOGY LIMITED,"1,000,000+",15875.0,754,4.4401913,Health & Fitness,False,not_ng_insurance
+Old Mutual Nigeria,com.chd.investnaija.invest_naija,InvestNaija: Learn & Invest.,InvestIN LTD.,"500,000+",1373.0,739,3.5546875,Finance,False,not_ng_insurance
+Custodian Insurance Nigeria,com.optimusng.mobile,PlutusNeo by Afrinvest,Andromeda Technology Solutions Ltd,"100,000+",1692.0,724,3.4591196,Finance,False,not_ng_insurance
+Gari motor insurance,com.waze,Waze Navigation & Live Traffic,Waze,"500,000,000+",8895849.0,599,4.3986015,Maps & Navigation,False,not_ng_insurance
+Universal Insurance Nigeria,com.nigeriapropertycentre.app,Nigeria Property Centre,Nigeria Property Centre,"100,000+",1221.0,532,4.01,Lifestyle,False,not_ng_insurance
+Fin Insurance Nigeria,ng.sycamore.app2,Sycamore - Save Invest Borrow,Sycamore Integrated Solutions Limited,"100,000+",1255.0,492,4.4793386,Finance,False,not_ng_insurance
+Tangerine Life,notion.id,"Notion: Notes, Tasks, AI","Notion Labs, Inc.","10,000,000+",377660.0,488,4.6590037,Productivity,False,not_ng_insurance
+Guinea Insurance,com.remitly.androidapp,Remitly: Send Money & Transfer,Remitly,"10,000,000+",1590243.0,385,4.6646705,Finance,False,not_ng_insurance
+Tangerine Life,co.uk.getmondo,Monzo Bank - Mobile Banking,Monzo,"10,000,000+",178748.0,314,4.7166667,Finance,False,not_ng_insurance
+Sterling Assurance Nigeria,ng.sterling.bancabysterling,Banca by Sterling,Sterling Bank Plc,"100,000+",575.0,294,4.07,Finance,False,not_ng_insurance
+Unitrust Insurance,com.ptb.mobile,PremiumTrust Mobile,PremiumTrust Bank,"100,000+",577.0,289,4.21,Finance,False,not_ng_insurance
+Universal Insurance Nigeria,com.etranzact.mpbVerificationApp,MPB Verification,Military Pensions Board,"50,000+",458.0,262,3.61,Personalization,False,not_ng_insurance
+Sterling Assurance Nigeria,ng.sterling.sterlingswitch,Switch by Sterling,Sterling Bank Plc,"50,000+",415.0,219,3.7603307,Finance,False,not_ng_insurance
+FBN Insurance,com.fbn.FBNDirect,FBNDirect,FirstBank Nigeria,"100,000+",588.0,198,4.04,Finance,False,not_ng_insurance
+Great Nigeria Insurance,com.tiptoebettingtips.app,Tiptoe Betting Tips & Odds,Tiptoe Betting Tips,"50,000+",1094.0,193,4.76,Sports,False,not_ng_insurance
+Sovereign Trust Insurance,com.sofrimobileapp,Sofri Trust,SofriSofri,"100,000+",428.0,184,3.87,Finance,False,not_ng_insurance
+Police Health Maintenance,com.appcrunk.npf,NPF Rescue Me,Gulf Technologies,"100,000+",326.0,183,3.69,Communication,False,not_ng_insurance
+PaddyCover,com.wiseki.sekiapp,SekiApp: Buy and Sell Giftcard,SekiApp,"50,000+",387.0,171,4.5,Finance,False,not_ng_insurance
+buy insurance Nigeria,com.premiumtrust.blayzz,Blayzz,PremiumTrust Bank,"100,000+",264.0,168,3.79,Finance,False,not_ng_insurance
+KBL Insurance,com.chase.sig.android,Chase Mobile,JPMorgan Chase,"50,000,000+",2093769.0,160,4.69,Finance,False,not_ng_insurance
+NHIA Nigeria,ng.verifyme.agentapp,Gova by VerifyMe,VerifyMe Nigeria Ltd,"10,000+",250.0,158,4.09,Business,False,not_ng_insurance
+Royal Exchange Insurance,com.exchanger101.app,"Exchanger101:Coins,Giftcard,Da",exchanger company,"10,000+",405.0,114,4.53,Business,False,not_ng_insurance
+Tangerine Life,com.finch.finch,Finch: Self-Care Pet,Finch Care Public Benefit Corporation,"10,000,000+",602206.0,110,4.79,Health & Fitness,False,not_ng_insurance
+Coronation Insurance,ng.coronation.shareholderlive,Coronation ShareholderLive,Coronation Registrars,"10,000+",148.0,103,2.73,Finance,False,not_ng_insurance
+Coronation Insurance,com.trium_digital.wealth_app,Coronation Wealth,WEALTH BY CORONATION LIMITED,"10,000+",151.0,98,3.14,Finance,False,not_ng_insurance
+Fin Insurance Nigeria,com.bmoni.app,BMONI,BKey Inc,"100,000+",267.0,97,3.5272727,Finance,False,not_ng_insurance
+car insurance Nigeria,com.autochek.buysalefixcars,Autochek - Auto Sales & Loans,Autochek,"100,000+",350.0,95,3.81,Finance,False,not_ng_insurance
+Roding Healthcare,com.eshe.space,Eshe Period & Cycle Tracker,FEM HEALTH LIFE LTD,"100,000+",735.0,82,4.3431373,Health & Fitness,False,not_ng_insurance
+Total Health Trust,com.google.android.apps.healthdata,Health Connect,Google LLC,"500,000,000+",86322.0,80,4.51,Health & Fitness,False,not_ng_insurance
+Veritas Kapital Assurance,com.veritasmobileapp,Veritas Glanvills Pensions,Veritas Glanvills Pensions,"50,000+",160.0,78,4.5,Finance,False,not_ng_insurance
+Nigerian Agricultural Insurance,com.boa.mobile,Bank of Agriculture,Bank Of Agriculture,"50,000+",172.0,76,3.96,Finance,False,not_ng_insurance
+Jaiz Takaful,com.jaiz.mobiletoken,Jaiz eToken,Jaiz Bank Plc,"100,000+",164.0,70,3.29,Finance,False,not_ng_insurance
+third party insurance Nigeria,ng.com.islam24data.app,Islam 24 Data,GomTech Solutions,"100,000+",209.0,57,4.4313726,Business,False,not_ng_insurance
+Songhai Health Trust,com.mDoc.completehealth,mDoc CompleteHealth™,mDoc,"10,000+",68.0,46,4.5409837,Health & Fitness,False,not_ng_insurance
+Sovereign Trust Insurance,com.cwg.trustbanc,Prime By TrustBanc,TrustBanc,"5,000+",77.0,46,4.4444447,Finance,False,not_ng_insurance
+Veritas Kapital Assurance,ru.gigabyte_artur.gigabyte_artur,Veritas,AAA+,"10,000+",122.0,40,4.0,Educational,False,not_ng_insurance
+THT Nigeria health,com.zijela.chprbn,CHPRBN,Zijela ICT,"10,000+",69.0,40,3.8985507,Medical,False,not_ng_insurance
+Zenith General Insurance,com.cyberspace.quantum_zenith,Quantum Zenith,Cyberspace,"10,000+",68.0,40,3.7076924,Finance,False,not_ng_insurance
+Cornerstone Insurance,com.csod.learning,Cornerstone OnDemand,"Cornerstone OnDemand, Inc.","1,000,000+",9225.0,29,4.6792455,Education,False,not_ng_insurance
+Salam Takaful Nigeria,com.xfaceline.wagas,Salam-Group Chat Rooms,XFaceLine Limited,"100,000+",9888.0,27,4.4651165,Social,False,not_ng_insurance
+NEM Insurance,app.kids360.parent,Kids360: Parental Control App,MINDCARE LAB LTD,"10,000,000+",287734.0,25,4.51,Parenting,False,not_ng_insurance
+travel insurance Nigeria,com.unitednigeria.booking,United Nigeria Airlines,Videcom,"50,000+",72.0,23,4.0923076,Travel & Local,False,not_ng_insurance
+Casava insurance,com.finceptive.casa,Casa Bank,Casa Bank,"5,000+",34.0,22,3.6764705,Finance,False,not_ng_insurance
+Consolidated Hallmark Insurance,com.covenantmfb.mobileapp,CovenantMFB - Edge Banking,Covenant Microfinance Bank,"10,000+",56.0,21,3.6964285,Finance,False,not_ng_insurance
+Cornerstone Takaful,com.edcast,Cornerstone LearningExperience,EdCast Inc.,"500,000+",3694.0,18,3.580645,Education,False,not_ng_insurance
+AIICO Multishield,com.aiicocapital.aiicoinvest,AIICO Invest,AIICO Capital,"5,000+",27.0,17,4.3333335,Finance,False,not_ng_insurance
+Prestige Assurance,ng.carbontech.prestigemfb,Prestige Mobile,CarbonTech Limited,"1,000+",21.0,17,3.7142856,Finance,False,not_ng_insurance
+Nigerian Agricultural Insurance,com.lagetronix.fgbmfi,FGBMFI Nigeria,Lagetronix,"5,000+",31.0,17,4.451613,Events,False,not_ng_insurance
+Custodian Insurance Nigeria,com.custodian.investment.live,Custodian Investment,Custodian Investment Plc,"5,000+",26.0,16,3.8846154,Productivity,False,not_ng_insurance
+Sanlam Nigeria,za.co.sanlam.mobile,Sanlam Portfolio,Sanlam,"100,000+",3959.0,16,3.7560976,Finance,False,not_ng_insurance
+Sanlam Nigeria,co.opensi.mobilsaham,Mobile Sanlam,OPEN SI,"50,000+",185.0,16,3.2162163,Business,False,not_ng_insurance
+Noor Takaful,ps.goldendeveloper.alnoor,Noor Play,MITHAQ MEDIA PRODUCTION,"5,000,000+",30497.0,14,3.5757575,Entertainment,False,not_ng_insurance
+Wella Health Nigeria,com.wellahealth.wellareport,WellaPartner,WellaHealth Technologies,"1,000+",29.0,13,4.571429,Medical,False,agent_or_provider
+Heirs Life Assurance,com.heirsinsurance.agency.app,Agency App by Heirs- Beta,HEIRS GENERAL INSURANCE LIMITED,"5,000+",39.0,11,3.7948718,Finance,False,agent_or_provider
+Wapic Insurance,com.marshmallow.marshmallow,Marshmallow Insurance,Marshmallow Insurance,"100,000+",12183.0,10,4.6458335,Finance,False,not_ng_insurance
+Hygeia HMO,com.phillipshmo,Phillips HMO Mobile,Phillips Health Management Service,"5,000+",28.0,9,3.4285715,Health & Fitness,False,not_ng_insurance
+THT Nigeria health,com.tht.apprelease,THT Mobile,Health Insurance,"5,000+",14.0,9,2.7857144,Health & Fitness,False,not_ng_insurance
+Custodian Insurance Nigeria,com.guardian.guardian_news,The Guardian Nigeria,Guardian Newspapers Limited,"1,000+",18.0,8,4.6666665,News & Magazines,False,not_ng_insurance
+AIICO Multishield,com.minimax.ai,MiniMax - Your AI Agent,MiniMax AI,"1,000,000+",1455.0,7,4.2173915,Productivity,False,not_ng_insurance
+Regency Alliance Insurance,com.regentmobile.regentmobilemobile,RegentMFB,RegentMFB,"1,000+",19.0,7,4.0526314,Finance,False,not_ng_insurance
+Nigerian Agricultural Insurance,com.BanqueMisr.MobileBanking,BM Online,Banque Misr,"5,000,000+",267431.0,7,4.448276,Finance,False,not_ng_insurance
+Heirs Life Assurance,com.ipru.iciciprulife.customer.release,ICICI Prudential Life App,ICICI Prudential Life Insurance,"1,000,000+",95139.0,7,4.7222223,Finance,False,not_ng_insurance
+Songhai Health Trust,com.songhai.hmo,Songhai HMO,LionTech Systems,500+,8.0,6,4.5,Health & Fitness,False,not_ng_insurance
+Lasaco Assurance,ng.adspace.lasaamobile,LASAA Mobile,AdspaceMedia Technologies,"5,000+",36.0,6,4.7222223,Tools,False,not_ng_insurance
+International Energy Insurance,com.quickteller.energy,Quickteller Energy,Interswitch Limited,100+,8.0,6,4.5,Productivity,False,not_ng_insurance
+NHIA Nigeria,gh.gov.nhis.android.nma,MyNHIS,OeSD Int Software,"100,000+",960.0,6,3.7142856,Health & Fitness,False,not_ng_insurance
+African Alliance Insurance,com.phatisa.irrapp,Africa Private Equity News,Africa Private Equity News,"10,000+",188.0,5,4.8235292,Business,False,not_ng_insurance
+Noor Takaful,com.noor.dev,Noor Health Member Hub,NoorICT,500+,5.0,5,5.0,Health & Fitness,False,not_ng_insurance
+Bluewave insurance,com.catinaboxgames.bluedefense2,Blue Defense: Second Wave!,Cat in a Box Software,"100,000+",739.0,5,4.0,Arcade,False,not_ng_insurance
+car insurance Nigeria,com.icarslist.nigeriacarmart,Nigeria Car Mart,iCarsList Network,"5,000+",13.0,5,4.4615383,Auto & Vehicles,False,not_ng_insurance
+car insurance Nigeria,com.sk.nigeria.used.cars,Used Cars in Nigeria,Shibly Khan,"1,000+",71.0,5,4.517857,Auto & Vehicles,False,not_ng_insurance
+Mutual Benefits Assurance,com.mutualbenefitsmfb.mutualbenefitsmfbmobile,Mutual Benefits MFB,Mutual Benefits MFB,"1,000+",8.0,4,3.375,Finance,False,not_ng_insurance
+Songhai Health Trust,com.innodiets.cardi,Cardi Health: Heart Monitoring,Inno Diets UAB,"50,000+",717.0,4,4.1666665,Health & Fitness,False,not_ng_insurance
+Police Health Maintenance,com.app.policehmo,Police HMO,Solaris InfoTech NG,"1,000+",9.0,4,4.375,Health & Fitness,False,not_ng_insurance
+Sterling Health HMO,com.sterlingmf.sterling,Sterling,sterlingmf,"5,000+",47.0,4,4.1,Finance,False,not_ng_insurance
+Curacel,com.corcel.app,Corcel,Taostats,"10,000+",145.0,4,4.285714,Productivity,False,not_ng_insurance
+travel insurance Nigeria,ru.tripinsurance.android.app,Tripinsurance:travel insurance,Tripinsurance,"50,000+",477.0,4,3.3333333,Travel & Local,False,not_ng_insurance
+Coronation Insurance,com.coronationinsurance.android,Retail Agency Mobile,Coronation Insurance,"1,000+",6.0,3,4.3333335,Finance,False,agent_or_provider
+Veritas Kapital Assurance,com.iw.veritasins,Veritas Mutual Fund,Clarion FinTech Pvt. Ltd.,"10,000+",58.0,3,4.571429,Finance,False,not_ng_insurance
+KBL Insurance,com.lcode.kblmobileplus,KBL MOBILE Plus,KARNATAKA BANK,"5,000,000+",221179.0,3,3.857143,Finance,False,not_ng_insurance
+Integrated Healthcare Nigeria,com.ihms.app,IHMS Mobile,Health Insurance,"1,000+",8.0,3,4.1666665,Health & Fitness,False,not_ng_insurance
+Hallmark HMO,com.prohealth.appstore,Prohealth Mobile,Health Insurance,"5,000+",10.0,3,4.2,Health & Fitness,False,not_ng_insurance
+International Energy Insurance,com.originmobileapp,Origin Energy Gas Internet LPG,Origin Energy,"1,000,000+",14367.0,3,4.1666665,House & Home,False,not_ng_insurance
+Great Nigeria Insurance,dk.youngmoney.youngmoney,Young Money,&money,"100,000+",775.0,3,4.2727275,Finance,False,not_ng_insurance
+MyCoverGenius,com.shipafrika.roro,myRORO,Ship Afrika LLC,"1,000+",21.0,3,4.5454545,Business,False,not_ng_insurance
+Reliance Health HMO,com.reliancehmo.rhmo_doctor,RelianceCare for Doctors,Reliance Health,"1,000+",11.0,2,4.181818,Health & Fitness,False,agent_or_provider
+Oceanic Health Management,com.oceanic.dev,Oceanic Health,Oceanic Dev,"1,000+",7.0,2,2.6,Health & Fitness,False,not_ng_insurance
+Redcare HMO,shop.shop_apotheke.com.shopapotheke,Shop Apotheke: E-Rezept App,Shop-Apotheke B.V.,"5,000,000+",478910.0,2,4.7777777,Medical,False,not_ng_insurance
+Roding Healthcare,com.who_phc,Primary Health Care,World Health Organization,"10,000+",51.0,2,4.125,Medical,False,not_ng_insurance
+International Energy Insurance,com.imih.innergy,Innergy:Meditation & Wellbeing,Institute for Meditation and Inner Harmony,"100,000+",3772.0,2,4.75,Health & Fitness,False,not_ng_insurance
+Great Nigeria Insurance,au.com.nab.mobile,NAB Mobile Banking,NAB,"5,000,000+",72675.0,2,4.775,Finance,False,not_ng_insurance
+Avon HMO,com.oplayer.avonsmart,AVON SMART V2,Smart-Wearables,"500,000+",,0,,Health & Fitness,False,not_ng_insurance
+Avon Healthcare,com.logezy.avonHealthcare,Avon Healthcare,Logezy,500+,,0,,Business,False,not_ng_insurance
+Anchor HMO,com.jrmoynihan99.anchor,Anchor | Fight Lust Together,Jason Moynihan,100+,,0,,Social,False,not_ng_insurance
+Princeton Health Nigeria,uk.co.glassboxx.princeton,Princeton University Press,Glassboxx,"5,000+",,0,,Education,False,not_ng_insurance
+Venus Medicare,com.venushospital.patientApp,Venus Patient Connect,SMT RASILABEN SEVANTILAL SHAH VENUS HOSPITAL,100+,,0,,Medical,False,not_ng_insurance
+Marina Medical HMO,com.perfectgym.perfectgymgo2.marinahealthleisure,Marina Health & Leisure,PERFECT GYM SOLUTIONS SP. Z O. O.,100+,,0,,Health & Fitness,False,not_ng_insurance
+Salus Trust,io.salussafety.salus,SALUS,Salus Technologies Inc,"10,000+",,0,,Business,False,not_ng_insurance
+Salus Trust,com.amplisoftware.salusTele,Salus,Amplisoftware Tecnologia LTDA,100+,,0,,Health & Fitness,False,not_ng_insurance
+Salus Trust,com.salus.health,Salus Health App,SalusHealth,100+,,0,,Health & Fitness,False,not_ng_insurance
+Mediplan Healthcare,com.app.mediplan.mediplan,MediPlan,Minderse,500+,,0,,Health & Fitness,False,not_ng_insurance
+AIICO Insurance,com.aiico.insurego,InsureGO,AIICO Insurance Plc,100+,,0,,Finance,False,consumer
+Coronation Insurance,com.coronation.mobile,CoronationMB Mobile,CORONATION MERCHANT BANK,"1,000+",,0,,Finance,False,not_ng_insurance
+Mutual Benefits Assurance,com.mobile.mutualbenefits,Mutual Benefits,"Generations Gold, Inc.",500+,,0,,Lifestyle,False,not_ng_insurance
+Linkage Assurance,com.linkageassuranceplc.app,LinkageProtect,Linkage Assurance Plc,100+,,0,,Finance,False,consumer
+Guinea Insurance,hobbiton.gari_client_app,Gari Motor Insurance,Hobbiton,"10,000+",,0,,Finance,False,consumer
+Prestige Assurance,com.prestige.prestige_customer_app,Prestige Assurance Customer,Teesofttech,50+,,0,,Business,False,consumer
+Prestige Assurance,com.prestige.agent,Prestige Assurance Agent,Teesofttech,10+,,0,,Business,False,agent_or_provider
+Anchor Insurance Nigeria,com.anchor.insurance,Anchor Insurance,Anchor Insurance,100+,,0,,Finance,False,consumer
+Anchor Insurance Nigeria,dev.khaldoun.anchor,Anchor,dev.MealTime,100+,,0,,Productivity,False,not_ng_insurance
+Veritas Kapital Assurance,com.VeritasCapitalFundManagement.ahapp,Veritas Capital App,"Veritas Capital Fund Management, L.L.C.",50+,,0,,Business,False,not_ng_insurance
+SUNU Assurances Nigeria,com.sunu.mysunu,MySUNU Assurances,SUNU DIGITECH,"50,000+",,0,,Finance,False,consumer
+SUNU Assurances Nigeria,com.mysunu.bank,MySUNU Bank,SUNU DIGITECH,"10,000+",,0,,Finance,False,not_ng_insurance
+Royal Exchange Insurance,com.royalexchange.regic,Royal Exchange,MBR Computer Consultants,100+,,0,,Finance,False,consumer
+KBL Insurance,com.lcode.kblmbank,KBL Mobile Plus,KARNATAKA BANK,"1,000,000+",,0,,Finance,False,not_ng_insurance
+African Alliance Insurance,dev.hobbiton.general_alliance_insurance,General Alliance Agents,Hobbiton,500+,,0,,Finance,False,agent_or_provider
+Capital Express Assurance,com.soyebo.capitalexpress,Capital Express Agent App,capexappdev,100+,,0,,Finance,False,agent_or_provider
+Capital Express Assurance,com.capitalexpress.agent,Capital Express Agent,Codeware Ltd.,100+,,0,,Travel & Local,False,agent_or_provider
+Capital Express Assurance,com.capitalexpress.driver,Capital Express Driver,Codeware Ltd.,"1,000+",,0,,Travel & Local,False,agent_or_provider
+NSIA Insurance Nigeria,com.nsiavie.nsiaaccess,NSIA Connect,NSIA ASSURANCES SA,"5,000+",,0,,Finance,False,not_ng_insurance
+NSIA Insurance Nigeria,com.smartaps.nsia_app,NSIA INVEST,NSIA ASSET,"100,000+",,0,,Finance,False,not_ng_insurance
+NSIA Insurance Nigeria,com.nsiabanque.mobibnq,NSIA Banque Direct,NSIA BANQUE,"100,000+",,0,,Finance,False,not_ng_insurance
+Zenith Life Assurance,com.zenithagent.zenithagentapp,Zenith Islami Life Agent App,Zenith Life,"1,000+",,0,,Finance,False,not_ng_insurance
+Tangerine Life,com.tangerine.tangerinelife,Tangerine Life,Tangerine Life Insurance Limited,1+,,0,,Finance,False,consumer
+Tangerine General Insurance,inshuwa_clients_app.zsic,Zsic General Insurance,Hobbiton,500+,,0,,Finance,False,not_ng_insurance
+Sanlam Nigeria,rw.sanlamallianzlife.rwsl,SanlamAllianz Life,SANLAM ALLIANZ,"10,000+",,0,,Tools,False,not_ng_insurance
+SanlamAllianz Nigeria,com.sanlam.unit_trust,SanlamAllianz Unit Trust EA,SanlamAllianz Investments Limited,"50,000+",938.0,0,3.5,Finance,False,not_ng_insurance
+Jaiz Takaful,com.techkoor.jaiza,Jaiza,Tech Koor,"1,000+",,0,,Entertainment,False,not_ng_insurance
+Salam Takaful Nigeria,com.salamtakafulinsurance.agent,Salam Takaful Insurance Agent,Salam Takaful,100+,,0,,Business,False,not_ng_insurance
+ETAP insure,com.impark.etap,ETAP,İMPARK,"1,000+",,0,,Education,False,not_ng_insurance
+ETAP insure,com.sinavza.sinavza_EDS.etapyayinlari,Etap,Eğitim Destek Sistemi,"1,000+",,0,,Education,False,not_ng_insurance
+Curacel,com.curacel.health.app,Curacel Health,Curacel Systems,100+,,0,,Health & Fitness,False,agent_or_provider
+Bluewave insurance,com.gofit.bluewave,BlueWave,GOFIT INSPIRASI,10+,,0,,Health & Fitness,False,not_ng_insurance
+Gari motor insurance,hobbiton.tech.gari_agents_app,Gari Motor Insurance Agent,Hobbiton,"1,000+",,0,,Finance,False,agent_or_provider
+NHIA Nigeria,com.nhia.mobile.android,MyNHIA,NATIONAL HEALTH INSURANCE AUTHORITY.,"5,000+",,0,,Health & Fitness,False,consumer
+Reliance Health HMO,com.healthnomics.app,Healthnomics HMO Mobile,Health Insurance,50+,,0,,Health & Fitness,False,not_ng_insurance
+Total Health Trust,com.alarmnet.tc2,Total Connect 2.0,"Resideo Technologies, Inc.","1,000,000+",,0,,Lifestyle,False,not_ng_insurance
+Novo Health Africa,com.novoinsure.eb,Novo insure,Cover Me Technology Private Limited,100+,,0,,Finance,False,not_ng_insurance
+Novo Health Africa,com.healthx.app,HealthX Africa,HEALTHEX AFRICA LIMITED,"10,000+",,0,,Medical,False,not_ng_insurance
+AIICO Multishield,com.switch.essential,Switch Essential Plus,Axiom by Tradeling,"5,000+",,0,,Health & Fitness,False,not_ng_insurance
+Integrated Healthcare Nigeria,imchospital.com.pk.imc,Integrated Medical Care,Contech International,"1,000+",,0,,Health & Fitness,False,not_ng_insurance
+Greenbay HMO,com.subsplashconsulting.s_3RR5N3,Green Bay XA,Northeast Wisconsin Chi Alpha,50+,,0,,Lifestyle,False,not_ng_insurance
+Greenbay HMO,com.hmo.aspire,Aspire HMO,Health Insurance,10+,,0,,Health & Fitness,False,not_ng_insurance
+Greenbay HMO,com.crownjewelhmo.mobile,Crown Jewel HMO,Crown Jewel HMO,500+,,0,,Health & Fitness,False,not_ng_insurance
+Anchor HMO,com.hmo.ashmed,Ashmed HMO,Health Insurance,100+,,0,,Health & Fitness,False,not_ng_insurance
+Princeton Health Nigeria,ai.mxlabs.shenHealth,Shen Health,Shen.AI,"1,000+",,0,,Health & Fitness,False,not_ng_insurance
+United Healthcare International Nigeria,com.uhg.mobile.uhcglobal,UHC Global,"UNITED HEALTHCARE SERVICES, INC.","50,000+",,0,,Health & Fitness,False,not_ng_insurance
+United Healthcare International Nigeria,com.itf.united,My United org,IT-Fusion,500+,,0,,Medical,False,not_ng_insurance
+United Healthcare International Nigeria,com.united.uic,The United Insurance,The United Insurance Company,"10,000+",,0,,Finance,False,not_ng_insurance
+Prepaid Medicare,com.pmg.publicmedicare,Public Medicare,PMG HEALTHCARE SDN BHD,"10,000+",,0,,Lifestyle,False,not_ng_insurance
+Prepaid Medicare,net.medicarebd.app,Medicare,medicarebd Dev,"1,000+",,0,,Medical,False,not_ng_insurance
+Prepaid Medicare,com.quest.hmo,Quest Medicare,Health Insurance,50+,,0,,Health & Fitness,False,not_ng_insurance
+Prepaid Medicare,hms.custom.m1.prepaidPortal,M1 Prepaid,M1 Limited,"500,000+",,0,,Productivity,False,not_ng_insurance
+Songhai Health Trust,com.healthassurMobile.app,Healthassur Mobile,Health Insurance,500+,,0,,Health & Fitness,False,not_ng_insurance
+Wellness HMO Nigeria,dot.hmo2.mobile,Dot HMO Mobile,DOT HMO,"1,000+",,0,,Health & Fitness,False,not_ng_insurance
+Venus Medicare,com.medm.fleming.health,Medicare LifeSense,Fleming Medical,"10,000+",,0,,Medical,False,not_ng_insurance
+Venus Medicare,gov.va.mobileapp,VA: Health and Benefits,US Department of Veterans Affairs (VA),"1,000,000+",110012.0,0,4.8333335,Tools,False,not_ng_insurance
+Police Health Maintenance,com.hg.titp,This Is the Police,HandyGames,"100,000+",,0,,Simulation,False,not_ng_insurance
+Police Health Maintenance,com.crrepa.band.policelifestyle,POLICE FOT,International Luxury Group,"10,000+",,0,,Health & Fitness,False,not_ng_insurance
+Defence Health Maintenance,com.joinvoy.diagnostics,Do Health,Menwell Limited,"5,000+",,0,,Health & Fitness,False,not_ng_insurance
+Marina Medical HMO,com.healthspring.apprelease,Healthspring HMO Care,Health Insurance,"10,000+",,0,,Health & Fitness,False,not_ng_insurance
+Salus Trust,trustfitness.app.lenus,Trust Fitness,Trust Fitness,100+,,0,,Health & Fitness,False,not_ng_insurance
+Zenith Medicare,com.teamhealth.zenith,Zenith by TeamHealth,"Team Health, Inc","10,000+",,0,,Business,False,not_ng_insurance
+Zenith Medicare,com.nande.zenith,Zenith Card App,Zenith Card,"1,000+",,0,,Finance,False,not_ng_insurance
+Zenith Medicare,com.app.ufit365.zenith,Zenith,UPro365,"1,000+",,0,,Health & Fitness,False,not_ng_insurance
+Roding Healthcare,drpro.patient.app,DrPro Healthcare,DrPro,"10,000+",,0,,Health & Fitness,False,not_ng_insurance
+Mediplan Healthcare,com.medplan.medplan,Medplan,Medplan,100+,,0,,Health & Fitness,False,not_ng_insurance
+Oceanic Health Management,com.bigruby.OceanSmallHospitalDoctorWork,Ocean Small Hospital - Doctor,Big Ruby Studios,"5,000+",,0,,Educational,False,not_ng_insurance
+Wella Health Nigeria,com.walaa.cchi,Walaa Health,Walaa Cooperative Insurance Co,"5,000+",,0,,Finance,False,not_ng_insurance
+Wella Health Nigeria,com.sonarapp.health,Sonar - Health & Performance,"Sonar Health, Inc.","10,000+",,0,,Health & Fitness,False,not_ng_insurance
+AXA Mansard,com.axaassistance.cardmemberbenefits,AXA Cardmember Benefits,AXA Assistance US,"50,000+",,0,,Finance,False,not_ng_insurance
+AXA Mansard,com.agh.ipmi.prod,AXA - Global Healthcare,AXA - Global Healthcare,"10,000+",,0,,Finance,False,not_ng_insurance
+AXA Mansard,com.ejada.axaeg,MyAXA Egypt,AXA Egypt,"500,000+",,0,,Business,False,not_ng_insurance
+AIICO Insurance,com.aiconomy.aicomobileapp,aico,aico,100+,,0,,Business,False,not_ng_insurance
+Cornerstone Insurance,com.subsplash.thechurchapp.cornerstonechapel,Cornerstone Chapel,Subsplash Inc,"10,000+",,0,,Education,False,not_ng_insurance
+Cornerstone Insurance,com.apollos.cornerstonecommunitychurch,Cornerstone Wildomar,CORNERSTONE COMMUNITY CHURCH OF WILDOMAR,500+,,0,,Lifestyle,False,not_ng_insurance
+Consolidated Hallmark Insurance,com.bajaj.life,Bajaj Life Insurance,Bajaj Life Insurance Limited,"500,000+",,0,,Finance,False,not_ng_insurance
+Wapic Insurance,com.learnzapp.insurance,Insurance Exam Prep Pro,LearnZapp,"5,000+",,0,,Education,False,not_ng_insurance
+Wapic Insurance,com.infinityinsurance.mobile,Infinity Insurance,Infinity General Insurance Plc.,"1,000+",,0,,Business,False,not_ng_insurance
+NEM Insurance,mobi.nemi,Nemi,Nemi Mobility Solutions SL,"10,000+",,0,,Maps & Navigation,False,not_ng_insurance
+Mutual Benefits Assurance,com.mirae.investor.app,Mirae Asset Mutual Fund,MIRAE ASSET INVESTMENT MANAGERS (INDIA) PVT LTD,"500,000+",,0,,Finance,False,not_ng_insurance
+Sovereign Trust Insurance,com.trustcyprusinsurance.app,myTrust,Trust Insurance Cyprus,50+,,0,,Finance,False,not_ng_insurance
+Sovereign Trust Insurance,fr.e_trust,E-Trust,Gaspard Toussaint,"1,000+",,0,,Productivity,False,not_ng_insurance
+Lasaco Assurance,com.lasoco.lasoco_pp,lasoco app live sports plus hd,abshir somdomain,"10,000+",,0,,Sports,False,not_ng_insurance
+Lasaco Assurance,fr.llbaprofessional,Curacoro in French,Curacoro,500+,,0,,Shopping,False,not_ng_insurance
+Lasaco Assurance,com.lasco.ph,LASCO,Lasco Home,"50,000+",,0,,Tools,False,not_ng_insurance
+Linkage Assurance,com.linkk.in,Link-K TPA Insurance,Link-K TPA,100+,,0,,Health & Fitness,False,not_ng_insurance
+Linkage Assurance,com.magiclinks.android,MagicLinks,MagicLinks,"5,000+",,0,,Tools,False,not_ng_insurance
+Linkage Assurance,com.hydropods.mobileapp,Growlink,Growlink,"5,000+",,0,,Productivity,False,not_ng_insurance
+Regency Alliance Insurance,nl.lisa_is.alliance,Alliance App,LISA B.V.,"1,000+",,0,,Sports,False,not_ng_insurance
+Regency Alliance Insurance,com.zurich.riskgrading.whatif,Zurich Risk Advisor,Zurich Insurance Company Ltd.,"10,000+",,0,,Business,False,not_ng_insurance
+Guinea Insurance,com.cediguinee.guineestory,Guinea Story,CEDI Guinée,"5,000+",,0,,Education,False,not_ng_insurance
+Prestige Assurance,com.mypresitge,My Prestige App,Prestige Estates,"50,000+",,0,,Business,False,not_ng_insurance
+Universal Insurance Nigeria,ch.universal.app,Universal App,Universal Sounds,"1,000+",,0,,Social,False,not_ng_insurance
+Universal Insurance Nigeria,com.companyname.Unimovil,Universal Móvil Plus,Universal Group,"10,000+",,0,,Business,False,not_ng_insurance
+Staco Insurance,com.statrys.statrys,Statrys,Statrys Limited,"5,000+",,0,,Finance,False,not_ng_insurance
+Staco Insurance,com.mycasavi.stac,STAC,casavi GmbH,500+,,0,,Business,False,not_ng_insurance
+Staco Insurance,com.bigdavinci.MyTacoAI,MyTaco,BigDavinci,10+,,0,,Educational,False,not_ng_insurance
+Staco Insurance,com.univistainsurance.univista220,Univista,Univista Insurance,"50,000+",,0,,Business,False,not_ng_insurance
+Unitrust Insurance,io.ttutc.app,Unit Trust Corporation,Unit Trust Corporation,"10,000+",,0,,Business,False,not_ng_insurance
+Unitrust Insurance,tz.co.itrust.itrustfinance,iTrust Finance,ITRUST FINANCE LIMITED,"5,000+",,0,,Finance,False,not_ng_insurance
+Unitrust Insurance,com.utrustapp.retail,UTrust,UtrustPay,100+,,0,,Finance,False,not_ng_insurance
+Royal Exchange Insurance,com.p4b14aca104f.www,Insurance Exchange of America,Insurance Exchange of America,"5,000+",,0,,Shopping,False,not_ng_insurance
+Royal Exchange Insurance,vj.royal.insuranceapp,Royal Insurance,ROYAL INSURANCE,"1,000+",,0,,Business,False,not_ng_insurance
+Enterprise Life Nigeria,com.lifefitness.connect,Life Fitness Connect App,Life Fitness,"500,000+",,0,,Health & Fitness,False,not_ng_insurance
+African Alliance Insurance,com.itl.apps.uganda_app,Alliance Africa,Imatic Technologies Ltd.,100+,,0,,Business,False,not_ng_insurance
+African Alliance Insurance,com.nsar.africa24tvtt,MyAfrica24,Digital ANA,"5,000+",,0,,News & Magazines,False,not_ng_insurance
+Great Nigeria Insurance,finance.global.travel.niyo,Niyo: Global cards for travel,Finnew Solutions Pvt. Ltd.,"1,000,000+",,0,,Finance,False,not_ng_insurance
+Standard Alliance Insurance,com.standardinsurance,Standard Insurance,"Standard Insurance Co., Inc.","5,000+",,0,,Finance,False,not_ng_insurance
+Standard Alliance Insurance,uk.org.agindustries.checker,AIC Trade Assurance Checker,Consolidated Learning Inc,500+,,0,,Business,False,not_ng_insurance
+Standard Alliance Insurance,com.edurev.insurance,"Insurance Exam Prep: LIC,NIACL","EduRev: Learning, Mock Test & Exam Preparation App","5,000+",,0,,Education,False,not_ng_insurance
+Zenith Life Assurance,com.atrescode.life,AetherLife – MTG Life Counter,AetherLife,"10,000+",,0,,Tools,False,not_ng_insurance
+Nigerian Agricultural Insurance,com.swifttechnology.globalsmart,Global Smart Plus: Banking App,Global IME Bank Limited,"1,000,000+",,0,,Finance,False,not_ng_insurance
+Old Mutual Nigeria,com.app.oldmutual_ke,Old Mutual Invest,Old Mutual Investment Group (Kenya),"10,000+",,0,,Finance,False,not_ng_insurance
+Old Mutual Nigeria,com.oldmutual.pensions.app,My OldMutual GH,Old Mutual Ghana,"5,000+",,0,,Finance,False,not_ng_insurance
+Old Mutual Nigeria,com.ocft.dae,Old Mutual InteGreat,OLD MUTUAL LIFE ASSURANCE COMPANY,"10,000+",,0,,Finance,False,not_ng_insurance
+Tangerine General Insurance,com.tat.efig.live,EFI General Insurance,EXCELLENT FORTUNE DEVELOPMENT GROUP,"1,000+",,0,,Business,False,not_ng_insurance
+Heirs General Insurance,com.premierhealthinsurance.premierHealth,Premier Health Insurance,Premier Health Insurance,"1,000+",,0,,Health & Fitness,False,not_ng_insurance
+Heirs General Insurance,com.ageasfederal.customer,Ageas Federal Life Insurance,Ageas Federal Life Insurance Co. Ltd.,"10,000+",,0,,Finance,False,not_ng_insurance
+Prudential Zenith Life,com.prud.zm,Prudential Insurance - Zambia,Pru,"50,000+",,0,,Business,False,not_ng_insurance
+Law Union and Rock,com.app.smartlearning.lawwithtwins,Lawwithtwins,SYKhan,"1,000+",,0,,Education,False,not_ng_insurance
+Law Union and Rock,org.worldrugby.lawsofrugby,Laws of Rugby,World Rugby,"100,000+",,0,,Sports,False,not_ng_insurance
+Law Union and Rock,com.audiolawreader.app,US Law Reader App AI study aid,Ondrej Stanek,"10,000+",,0,,Books & Reference,False,not_ng_insurance
+Law Union and Rock,com.palmlaw.app,LawLink,Palmslaw Application,500+,,0,,Productivity,False,not_ng_insurance
+Noor Takaful,com.digicore.noortakaful,Raha: Ethical Insurance,NoorICT,100+,,0,,Finance,False,not_ng_insurance
+Noor Takaful,com.noor.app.noor,Noor,SuperWolf,100+,,0,,Productivity,False,not_ng_insurance
+Salam Takaful Nigeria,com.avolox.salaamtakaful,Salaam Takaful,Salaam Takaful,"100,000+",,0,,Business,False,not_ng_insurance
+Salam Takaful Nigeria,com.brightstartech.salamshadi,Salam APP | Award Winning,Bright Star Technology,"50,000+",,0,,Social,False,not_ng_insurance
+Casava insurance,com.chuuma.chuuma_mobile,Chuuma,Chuuma Labs,"1,000+",,0,,Finance,False,not_ng_insurance
+ETAP insure,com.nextzy.tipapp,TIP Insure,"Dhipaya Insurance Public Co., Ltd.","100,000+",,0,,Business,False,not_ng_insurance
+MyCoverGenius,com.theunitedinsurance.myuic,myUIC: General Insurance,United Software & Technologies International,"50,000+",,0,,Finance,False,not_ng_insurance
+MyCoverGenius,ai.mycover.songmaker,MyCover - AI Song Maker,3B AI Melody Studio,"10,000+",,0,,Music & Audio,False,not_ng_insurance
+MyCover ai insurance,com.mypolicydata.app,MyPolicyData AI Insurance CRM,MyPolicyData,"1,000+",,0,,Business,False,not_ng_insurance
+MyCover ai insurance,com.maytronics.mycover,MyCover,MaytronicsApps,"5,000+",,0,,House & Home,False,not_ng_insurance
+Octamile,io.automile.automilepro,Automile,Automile,"50,000+",,0,,Business,False,not_ng_insurance
+Octamile,com.aihackathonkarisacikartim.god2,Octa: AI Song & Music Maker,Octaverum,"1,000+",,0,,Music & Audio,False,not_ng_insurance
+Octamile,com.octaplus.app,Octaplus App,Rx Health Info Systems,50+,,0,,Health & Fitness,False,not_ng_insurance
+Octamile,com.octagonafrica.octagon_africa,Octagon Africa,Octagon Africa Financial Services Ltd,"1,000+",,0,,Finance,False,not_ng_insurance
+Curacel,com.autoelex.curadle,Curadle Care,Autoelex,50+,,0,,Lifestyle,False,not_ng_insurance
+Curacel,com.curalinc.mycuralinc,MyCuraLinc,CuraLinc Healthcare,"5,000+",,0,,Health & Fitness,False,not_ng_insurance
+Bluewave insurance,com.buuuk.globalblue,Global Blue – Shop Tax Free,Global Blue SA,"1,000,000+",,0,,Travel & Local,False,not_ng_insurance
+Turaco insurance,pl.trco,TRCO,TRCO,"1,000+",,0,,Travel & Local,False,not_ng_insurance
+Gari motor insurance,com.godigit.digit,Digit Insurance,Digit Insurance,"5,000,000+",,0,,Finance,False,not_ng_insurance
+Hobbiton insurance,hobbiton_tech.inshuwa_clients_app.nico,NICO Insurance Zambia,Hobbiton,"1,000+",,0,,Finance,False,not_ng_insurance
+MyNHIA,com.nmc.app.main,NMC MyHealth,NMC Assetco LTD,"100,000+",,0,,Health & Fitness,False,not_ng_insurance
+National Health Insurance Authority,com.ngiapp,NGI Health,NATIONAL GENERAL INSURANCE COMPANY (PJSC),"10,000+",,0,,Lifestyle,False,not_ng_insurance
+National Health Insurance Authority,com.hisptz.org.mobile.dashboard.nhp,National Health Portal,THE REGISTERED TRUSTEES OF HISP TANZANIA,"10,000+",,0,,Productivity,False,not_ng_insurance
+motor insurance Nigeria,com.metrotrainbookinginindia,Vehicle Insurance Status Check,Nrspv Labs,"10,000+",,0,,Education,False,not_ng_insurance
+life insurance Nigeria,com.cargoteleport.lifelic,Life Insurance License Prep,Cargo Teleport,100+,,0,,Education,False,not_ng_insurance
+insurance claim Nigeria,com.gasanmamo.claims,Claim Easy,GasanMamo Insurance Ltd.,"1,000+",,0,,Business,False,not_ng_insurance
+medical insurance Nigeria,com.itf.EPP,EPP Medical Insurance,IT-Fusion,10+,,0,,Medical,False,not_ng_insurance
+travel insurance Nigeria,com.freely.prod,Freely Travel Insurance,Cover-More,"50,000+",,0,,Travel & Local,False,not_ng_insurance
